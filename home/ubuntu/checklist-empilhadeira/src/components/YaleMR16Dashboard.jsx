@@ -3,7 +3,7 @@ import { AlertTriangle, CheckCircle, Clock, User, Calendar, Settings, RefreshCw,
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar, PieChart, Pie, Cell } from 'recharts';
 
 // URL da API do Google Apps Script
-const API_URL = 'https://script.google.com/macros/s/AKfycbY0W_RTCE8TgxVxODNNZzY29zTMhP8KB-TDVHCTJecPZ2bdTOZD06Wyp7sDHd-CMYTZMA/exec';
+const API_URL = 'https://api.sheety.co/dd76607fa4e0ea69e06a54516e688c92/checklistRetrátil (respostas)/respostasAoFormulário1';
 
 const YaleMR16Dashboard = () => {
   const [currentTime, setCurrentTime] = useState(new Date());
