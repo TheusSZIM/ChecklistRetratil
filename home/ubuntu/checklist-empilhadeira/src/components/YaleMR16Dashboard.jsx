@@ -3,7 +3,7 @@ import { AlertTriangle, CheckCircle, Clock, User, Calendar, Settings, RefreshCw,
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, BarChart, Bar, PieChart, Pie, Cell } from 'recharts';
 
 // URL da API do Google Apps Script
-const API_URL = 'https://script.google.com/macros/s/AKfycbz0x26aJ-lBz0MwKUZV08FHWeRwlYaGHM7Vlc8eAZ9kKwwlHjyqWAM6-Cg0XkCo_gwiP/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbylIwgFOHB_asrX9noMjbqYgBrkRoHtz_IHrhANfJX/exec';
 
 const YaleMR16Dashboard = () => {
   const [currentTime, setCurrentTime] = useState(new Date());
